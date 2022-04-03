@@ -3,7 +3,7 @@
 ---
 
 * 3/3/2022
-  - trying to learn how to code swift. Ran into some compatibility issues with a example swiftui project had to use `objectVersion: 50` set in the project.pbxproj file, which apparently enumerates to xcode version 11.3.1 which is what is installed on my catalina machine.
+  - trying to learn how to code swift. Ran into some compatibility issues with a example swiftui project had to use `objectVersion: 52` set in the project.pbxproj file, which apparently enumerates to xcode version 11.3.1 which is what is installed on my catalina machine.
   - the project starts, but I cannot choose a simulator for it for some reason, could be a compatibility issue there also
   - Started a brand new project to see if I can get a build. and it works, while streaming the simulator took a few minutes to start. which seems to be normal from what I have seen. 
 
